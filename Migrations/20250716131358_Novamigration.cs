@@ -6,7 +6,7 @@ using Microsoft.EntityFrameworkCore.Migrations;
 namespace Aplicacao_web.Migrations
 {
     /// <inheritdoc />
-    public partial class CriandoTabelaPessoa : Migration
+    public partial class Novamigration : Migration
     {
         /// <inheritdoc />
         protected override void Up(MigrationBuilder migrationBuilder)
